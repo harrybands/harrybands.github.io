@@ -13,7 +13,7 @@ I will briefly introduce you about myself throughout this page. Hope you guys en
 
 D.o.B: (Confidential) - 2000. 
   
-GPA: (Gonna published if it was good) 
+GPA: (Confidential - Since it is not really good) 
   
 Level: I am on my third year of Boise State Univeristy. 
 
