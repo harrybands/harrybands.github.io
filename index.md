@@ -3,19 +3,35 @@
 I will briefly introduce you about myself throughout this page. Hope you guys enjoy my stories. 
 
 
-### Avatar 
-
 <p align="center">
-  <img src="C:\Users\caunh\Pictures" width="350" title="hover text">
+  <img src="deptrai.jpg" width="200" title="hover text">
 
 
 ### Profile 
+  
+(The above picture was me by the way) 
 
 D.o.B: (Confidential) - 2000. 
+  
+GPA: (Gonna published if it was good) 
+  
 Level: I am on my third year of Boise State Univeristy. 
 
+Languaged learned/learning: 
+  
+  * Java 
 
-
+  * C++/C#
+ 
+  * Angular - TypeScript 
+  
+  * Spring Boot 
+  
+  -> Basically full stack (Yes I am proud of it!) 
+ 
+### More information 
+  
+  Hobby: Listening to Olly Murs and Anhng music, playing board games, Watching sports.  
 
 
 ### Contact 
@@ -25,7 +41,7 @@ still adapting the new Boise life when I came back. So I will drop my social net
 
 Instagram: emhuycareer_
 
-Facebook: hdn.1910
+Facebook: hdn.confidential
 
 Snapchat: huyngo1910
 
