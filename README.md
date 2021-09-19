@@ -4,7 +4,7 @@ I will briefly introduce you about myself throughout this page. Hope you guys en
 
 
 <p align="center">
-  <img src="deptrai.jpg" width="200" title="hover text">
+  <img src="deptrai.jpg" width="136" title="hover text">
 
 
 ### Profile 
@@ -31,8 +31,14 @@ Languaged learned/learning:
  
 ### More information 
   
-  Hobby: Listening to Olly Murs and Anhng music, playing board games, Watching sports.  
+  Hobby: Listening to Olly Murs music, playing board games, Watching and playing(haha) sports.  
+  
+  Favorite Athletes: Roger Federer, Alvaro Morata, Jorginho, Ben Simmons, Truong Anh Ngoc. 
+  
+  Favorite Movies/Series: Friends, Inazuma Eleven, Pursuit of Happyness, The Last Song.  
 
+  Favorite Food: Ramen, Beefsteak, Fried Eggs. 
+  
 
 ### Contact 
 
