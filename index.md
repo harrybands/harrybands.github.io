@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to My Introduction Page
 
-You can use the [editor on GitHub](https://github.com/harrybands/harrybands.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I will briefly introduce you about myself throughout this page. Hope you guys enjoy my stories. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Avatar 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Profile 
 
-1. Numbered
-2. List
+D.o.B: (Confidential) - 2000. 
+Level: I am on my third year of Boise State Univeristy. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harrybands/harrybands.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact 
 
-### Support or Contact
+I am finding new friends since I studied remotely in my hometown when I was a sophomore, so I am
+still adapting the new Boise life when I came back. So I will drop my social network info below: 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Instagram: emhuycareer_
+Facebook: hdn.1910
+Snapchat: huyngo1910
+Telephone number: (Confidential)
+
