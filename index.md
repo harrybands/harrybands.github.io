@@ -5,7 +5,8 @@ I will briefly introduce you about myself throughout this page. Hope you guys en
 
 ### Avatar 
 
-
+<p align="center">
+  <img src="C:\Users\caunh\Pictures" width="350" title="hover text">
 
 
 ### Profile 
@@ -23,7 +24,10 @@ I am finding new friends since I studied remotely in my hometown when I was a so
 still adapting the new Boise life when I came back. So I will drop my social network info below: 
 
 Instagram: emhuycareer_
+
 Facebook: hdn.1910
+
 Snapchat: huyngo1910
+
 Telephone number: (Confidential)
 
